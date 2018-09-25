@@ -1,0 +1,34 @@
+html{
+	text-align: center;
+}
+
+table, tr,td{
+	border: black 2px solid;
+}
+
+
+#SX{
+	background-color: green;
+}
+
+#AW{
+	background-color: blue;
+}
+
+#SI{
+	background-color: orange;
+}
+
+#SOX{
+	background-color: purple;
+}
+
+#ING{
+	background-color: yellow;
+}
+
+
+#EIE{
+  background-color: #93C572;
+}
+
