@@ -4,6 +4,8 @@ html{
 
 table, tr,td{
 	border: black 2px solid;
+	border-spacing: 5px;
+	border-collapse: separate;
 }
 
 
